@@ -19,6 +19,18 @@ gitee: [PeakRacing/lcd_spi_driver](https://gitee.com/PeakRacing/lcd_spi_driver) 
 
 - [x] ST7789V2
 
+- [x] ST7735S
+
+- [x] ST7796S
+
+- [x] ILI9341
+
+- [x] ILI9486
+
+- [x] GC9A01
+
+- [x] NV3030B
+
 
 
 ## Discussion group
