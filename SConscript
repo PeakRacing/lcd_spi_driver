@@ -2,7 +2,7 @@ from building import *
 import os
 
 cwd = GetCurrentDir()
-src = Glob('src/*.c')
+src = Glob('*.c')
 CPPPATH = [cwd]
 
 LOCAL_CFLAGS = ''
