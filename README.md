@@ -36,7 +36,7 @@ gitee: [PeakRacing/lcd_spi_driver](https://gitee.com/PeakRacing/lcd_spi_driver) 
 
 ​	Check to enable the package: `T-Thread online packages → peripheral libraries and drivers → [*] The lcd spi driver`
 
-![lcd_spi_driver](F:\code\codeup\lcd_spi_driver\docs\lcd_spi_driver.png)
+![lcd_spi_driver](./docs/lcd_spi_driver.png)
 
 ​	Configure according to your own LCD
 
@@ -56,7 +56,7 @@ gitee: [PeakRacing/lcd_spi_driver](https://gitee.com/PeakRacing/lcd_spi_driver) 
 
   **These items are required configurations**
 
-![lcd_spi_config](F:\code\codeup\lcd_spi_driver\docs\lcd_spi_config.png)
+![lcd_spi_config](./docs/lcd_spi_config.png)
 
 Then go into `LCD Configuration` settings
 
@@ -68,7 +68,7 @@ Then go into `LCD Configuration` settings
 - BGR Format(LCD Use BGR Color Format)
 - Inverse display(LCD Enable Display Inversion)
 
-![lcd_config](F:\code\codeup\lcd_spi_driver\docs\lcd_config.png)
+![lcd_config](./docs/lcd_config.png)
 
 
 
