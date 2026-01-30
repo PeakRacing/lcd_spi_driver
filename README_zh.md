@@ -31,6 +31,9 @@ gitee: [PeakRacing/lcd_spi_driver](https://gitee.com/PeakRacing/lcd_spi_driver)(
 
 - [x] NV3030B
 
+  **注意: 如果使用的屏幕不在驱动支持列表里可提issue进行支持，需要附带上手册或原厂驱动**
+
+
 ## 使用说明
 ​	在 Env 命令行里输入 `menuconfig` 进入配置界面配置工程。
 

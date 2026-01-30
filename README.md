@@ -30,6 +30,8 @@ gitee: [PeakRacing/lcd_spi_driver](https://gitee.com/PeakRacing/lcd_spi_driver) 
 
 - [x] NV3030B
 
+  **Note: If the LCD you are using is not on the driver support list, you can submit an issue for support, and you need to provide the manual or the original driver.**
+
 ## Instructions for Use
 
 ​	Enter `menuconfig` in the Env command line to access the configuration interface and configure the project.
