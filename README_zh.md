@@ -86,6 +86,10 @@ gitee: [PeakRacing/lcd_spi_driver](https://gitee.com/PeakRacing/lcd_spi_driver)(
 
 
 
+​	**问: 为何我找不到软件包？**
+
+​	答: 执行 `pkgs --upgrade` 更新最新包索引
+
 ## 交流群
 
 ​	**非技术支持，仅作为兴趣交流**

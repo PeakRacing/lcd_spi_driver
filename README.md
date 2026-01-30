@@ -78,9 +78,17 @@ Then go into `LCD Configuration` settings
 
 ​	Answer: Check whether endian conversion is needed, BGR format, and inversion.
 
+
+
 ​	**Q: What should I do if it cannot display in full screen?**
 
 ​	A: Check if an offset needs to be set (you can check the original code provided by the screen manufacturer to see if there are any addition or subtraction offset operations in the parameters sent with commands 0x2A and 0x2B).
+
+
+
+​	**Q: Why can't I find the package?**
+
+​	A:Run `pkgs --upgrade` to update the latest package index
 
 ## Discussion group
 
