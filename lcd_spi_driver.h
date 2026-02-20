@@ -22,6 +22,8 @@ extern "C"
     #define PKG_LCD_SPI_DIRECTION      LCD_SPI_DIRECTION_180
 #elif defined PKG_LCD_SPI_DIRECTION_270
     #define PKG_LCD_SPI_DIRECTION      LCD_SPI_DIRECTION_270
+#else
+    #define PKG_LCD_SPI_DIRECTION      LCD_SPI_DIRECTION_0
 #endif
 
 typedef enum {
@@ -36,7 +38,7 @@ void lcd_set_windows(int16_t x0, int16_t y0, int16_t x1, int16_t y1);
 void lcd_set_direction(lcd_spi_direction_t direction);
 
 void lcd_clear(lcd_color_t color);
-
+void lcd_fill(uint16_t x0, uint16_t y0, uint16_t x1, uint16_t y1, lcd_color_t *color_buff);
 
 
 #ifdef __cplusplus
